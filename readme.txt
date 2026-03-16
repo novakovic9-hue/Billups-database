@@ -2,9 +2,11 @@
 
 1. Place staging.csv in data folder.
 
-2. Extract staging.zim file and import staging.csv using tasks -> import flat file
+2. Extract staging.zip and Billups.zip files
 
-1. Run scripts in order:
+3. import staging.csv using tasks -> import flat file
+
+4. Run scripts in order:
 
 01_schema.sql
 03_transform_data.sql
