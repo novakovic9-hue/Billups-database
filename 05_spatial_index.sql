@@ -1,0 +1,5 @@
+
+CREATE SPATIAL INDEX IX_POI_Location
+ON POI(Location);
+
+
